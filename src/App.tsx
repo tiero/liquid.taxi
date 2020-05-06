@@ -5,7 +5,7 @@ interface Props {}
 
 const App: React.FunctionComponent<Props> = () => {
   return (
-    <Layout title="😎 Yeah">
+    <Layout>
       <h1 className="title">Hey folks!</h1>
     </Layout>
   );
